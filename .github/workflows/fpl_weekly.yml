@@ -1,0 +1,37 @@
+name: FPL Weekly Data Refresh
+
+on:
+  schedule:
+    # Runs every Tuesday at 10:00 AM UTC (after Monday night deadlines)
+    - cron: '0 10 * * 2'
+  workflow_dispatch:  # Also lets you trigger it manually from GitHub
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests pandas
+
+      - name: Run FPL pipeline
+        run: python fpl_extract.py --player-history
+
+      - name: Generate best players report
+        run: python fpl_best_players.py
+
+      - name: Commit and push updated CSVs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add fpl_data/
+          git diff --staged --quiet || git commit -m "🔄 Weekly FPL data refresh $(date +'%Y-%m-%d')"
+          git push
