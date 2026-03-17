@@ -27,9 +27,9 @@ id,name,deadline_time,average_entry_score,highest_score,most_selected,most_trans
 26,Gameweek 26,2026-02-10T18:00:00Z,58,138.0,430.0,666.0,373.0,10933870,True,False,False
 27,Gameweek 27,2026-02-21T13:30:00Z,45,117.0,430.0,249.0,411.0,8668376,True,False,False
 28,Gameweek 28,2026-02-27T18:30:00Z,53,125.0,430.0,373.0,121.0,8235195,True,False,False
-29,Gameweek 29,2026-03-03T18:00:00Z,54,143.0,430.0,661.0,249.0,8012299,True,True,False
-30,Gameweek 30,2026-03-14T13:30:00Z,0,,,,,0,False,False,True
-31,Gameweek 31,2026-03-20T18:30:00Z,0,,,,,0,False,False,False
+29,Gameweek 29,2026-03-03T18:00:00Z,54,143.0,430.0,661.0,249.0,8012299,True,False,False
+30,Gameweek 30,2026-03-14T13:30:00Z,43,110.0,430.0,249.0,55.0,7392015,True,True,False
+31,Gameweek 31,2026-03-20T18:30:00Z,0,,,,,0,False,False,True
 32,Gameweek 32,2026-04-10T17:30:00Z,0,,,,,0,False,False,False
 33,Gameweek 33,2026-04-18T10:00:00Z,0,,,,,0,False,False,False
 34,Gameweek 34,2026-04-24T17:30:00Z,0,,,,,0,False,False,False
