@@ -301,32 +301,32 @@ id,event,team_h_name,team_a_name,team_h_score,team_a_score,team_h_difficulty,tea
 298,30.0,Nott'm Forest,Fulham,0.0,0.0,2,3,2026-03-15T14:00:00Z,True,True
 296,30.0,Liverpool,Spurs,1.0,1.0,3,4,2026-03-15T16:30:00Z,True,True
 292,30.0,Brentford,Wolves,2.0,2.0,2,4,2026-03-16T20:00:00Z,True,True
-302,31.0,Bournemouth,Man Utd,,,3,3,2026-03-20T20:00:00Z,False,False
-303,31.0,Brighton,Liverpool,,,3,3,2026-03-21T12:30:00Z,False,False
-305,31.0,Fulham,Burnley,,,1,3,2026-03-21T15:00:00Z,False,False
-304,31.0,Everton,Chelsea,,,3,3,2026-03-21T17:30:00Z,False,False
-306,31.0,Leeds,Brentford,,,3,3,2026-03-21T20:00:00Z,False,False
-308,31.0,Newcastle,Sunderland,,,2,4,2026-03-22T12:00:00Z,False,False
-301,31.0,Aston Villa,West Ham,,,2,4,2026-03-22T14:15:00Z,False,False
-309,31.0,Spurs,Nott'm Forest,,,2,3,2026-03-22T14:15:00Z,False,False
+302,31.0,Bournemouth,Man Utd,2.0,2.0,3,3,2026-03-20T20:00:00Z,True,True
+303,31.0,Brighton,Liverpool,2.0,1.0,3,3,2026-03-21T12:45:00Z,True,True
+305,31.0,Fulham,Burnley,3.0,1.0,1,3,2026-03-21T15:00:00Z,True,True
+304,31.0,Everton,Chelsea,3.0,0.0,3,3,2026-03-21T17:30:00Z,True,True
+306,31.0,Leeds,Brentford,0.0,0.0,3,3,2026-03-21T20:00:00Z,True,True
+308,31.0,Newcastle,Sunderland,1.0,2.0,2,4,2026-03-22T12:00:00Z,True,True
+301,31.0,Aston Villa,West Ham,2.0,0.0,2,4,2026-03-22T14:15:00Z,True,True
+309,31.0,Spurs,Nott'm Forest,0.0,3.0,2,3,2026-03-22T14:15:00Z,True,True
 320,32.0,West Ham,Wolves,,,2,2,2026-04-10T19:00:00Z,False,False
 311,32.0,Arsenal,Bournemouth,,,3,5,2026-04-11T11:30:00Z,False,False
 312,32.0,Brentford,Everton,,,3,4,2026-04-11T14:00:00Z,False,False
 313,32.0,Burnley,Brighton,,,3,2,2026-04-11T14:00:00Z,False,False
-315,32.0,Crystal Palace,Newcastle,,,3,3,2026-04-11T14:00:00Z,False,False
-318,32.0,Nott'm Forest,Aston Villa,,,3,3,2026-04-11T14:00:00Z,False,False
 316,32.0,Liverpool,Fulham,,,2,4,2026-04-11T16:30:00Z,False,False
+315,32.0,Crystal Palace,Newcastle,,,3,3,2026-04-12T13:00:00Z,False,False
+318,32.0,Nott'm Forest,Aston Villa,,,3,3,2026-04-12T13:00:00Z,False,False
 319,32.0,Sunderland,Spurs,,,3,4,2026-04-12T13:00:00Z,False,False
 314,32.0,Chelsea,Man City,,,4,4,2026-04-12T15:30:00Z,False,False
 317,32.0,Man Utd,Leeds,,,2,4,2026-04-13T19:00:00Z,False,False
 322,33.0,Brentford,Fulham,,,2,4,2026-04-18T11:30:00Z,False,False
-321,33.0,Aston Villa,Sunderland,,,2,4,2026-04-18T14:00:00Z,False,False
 326,33.0,Leeds,Wolves,,,2,3,2026-04-18T14:00:00Z,False,False
 328,33.0,Newcastle,Bournemouth,,,3,4,2026-04-18T14:00:00Z,False,False
-329,33.0,Nott'm Forest,Burnley,,,1,3,2026-04-18T14:00:00Z,False,False
 330,33.0,Spurs,Brighton,,,3,3,2026-04-18T16:30:00Z,False,False
 323,33.0,Chelsea,Man Utd,,,3,4,2026-04-18T19:00:00Z,False,False
+321,33.0,Aston Villa,Sunderland,,,2,4,2026-04-19T13:00:00Z,False,False
 325,33.0,Everton,Liverpool,,,3,3,2026-04-19T13:00:00Z,False,False
+329,33.0,Nott'm Forest,Burnley,,,1,3,2026-04-19T13:00:00Z,False,False
 327,33.0,Man City,Arsenal,,,4,5,2026-04-19T15:30:00Z,False,False
 324,33.0,Crystal Palace,West Ham,,,2,3,2026-04-20T19:00:00Z,False,False
 338,34.0,Sunderland,Nott'm Forest,,,2,4,2026-04-24T19:00:00Z,False,False
