@@ -309,16 +309,16 @@ id,event,team_h_name,team_a_name,team_h_score,team_a_score,team_h_difficulty,tea
 308,31.0,Newcastle,Sunderland,1.0,2.0,2,3,2026-03-22T12:00:00Z,True,True
 301,31.0,Aston Villa,West Ham,2.0,0.0,2,4,2026-03-22T14:15:00Z,True,True
 309,31.0,Spurs,Nott'm Forest,0.0,3.0,2,2,2026-03-22T14:15:00Z,True,True
-320,32.0,West Ham,Wolves,,,2,2,2026-04-10T19:00:00Z,False,False
-311,32.0,Arsenal,Bournemouth,,,3,5,2026-04-11T11:30:00Z,False,False
-312,32.0,Brentford,Everton,,,3,3,2026-04-11T14:00:00Z,False,False
-313,32.0,Burnley,Brighton,,,3,2,2026-04-11T14:00:00Z,False,False
-316,32.0,Liverpool,Fulham,,,3,4,2026-04-11T16:30:00Z,False,False
-315,32.0,Crystal Palace,Newcastle,,,3,3,2026-04-12T13:00:00Z,False,False
-318,32.0,Nott'm Forest,Aston Villa,,,3,3,2026-04-12T13:00:00Z,False,False
-319,32.0,Sunderland,Spurs,,,2,3,2026-04-12T13:00:00Z,False,False
-314,32.0,Chelsea,Man City,,,4,3,2026-04-12T15:30:00Z,False,False
-317,32.0,Man Utd,Leeds,,,2,4,2026-04-13T19:00:00Z,False,False
+320,32.0,West Ham,Wolves,4.0,0.0,2,2,2026-04-10T19:00:00Z,True,True
+311,32.0,Arsenal,Bournemouth,1.0,2.0,3,5,2026-04-11T11:30:00Z,True,True
+312,32.0,Brentford,Everton,2.0,2.0,3,3,2026-04-11T14:00:00Z,True,True
+313,32.0,Burnley,Brighton,0.0,2.0,3,2,2026-04-11T14:00:00Z,True,True
+316,32.0,Liverpool,Fulham,2.0,0.0,3,4,2026-04-11T16:30:00Z,True,True
+315,32.0,Crystal Palace,Newcastle,2.0,1.0,3,3,2026-04-12T13:00:00Z,True,True
+318,32.0,Nott'm Forest,Aston Villa,1.0,1.0,3,3,2026-04-12T13:00:00Z,True,True
+319,32.0,Sunderland,Spurs,1.0,0.0,2,3,2026-04-12T13:00:00Z,True,True
+314,32.0,Chelsea,Man City,0.0,3.0,4,3,2026-04-12T15:30:00Z,True,True
+317,32.0,Man Utd,Leeds,1.0,2.0,2,4,2026-04-13T19:00:00Z,True,True
 322,33.0,Brentford,Fulham,,,3,3,2026-04-18T11:30:00Z,False,False
 326,33.0,Leeds,Wolves,,,2,3,2026-04-18T14:00:00Z,False,False
 328,33.0,Newcastle,Bournemouth,,,3,3,2026-04-18T14:00:00Z,False,False
