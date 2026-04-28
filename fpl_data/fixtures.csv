@@ -1,28 +1,30 @@
 id,event,team_h_name,team_a_name,team_h_score,team_a_score,team_h_difficulty,team_a_difficulty,kickoff_time,finished,started
+363,,Bournemouth,Man City,,,4,4,,False,
+365,,Chelsea,Spurs,,,3,3,,False,
 307,,Man City,Crystal Palace,,,3,5,,False,
 1,1.0,Liverpool,Bournemouth,4.0,2.0,3,4,2025-08-15T19:00:00Z,True,True
 2,1.0,Aston Villa,Newcastle,0.0,0.0,3,4,2025-08-16T11:30:00Z,True,True
 3,1.0,Brighton,Fulham,1.0,1.0,3,4,2025-08-16T14:00:00Z,True,True
-6,1.0,Spurs,Burnley,3.0,0.0,1,2,2025-08-16T14:00:00Z,True,True
+6,1.0,Spurs,Burnley,3.0,0.0,1,3,2025-08-16T14:00:00Z,True,True
 5,1.0,Sunderland,West Ham,3.0,0.0,2,3,2025-08-16T14:00:00Z,True,True
 7,1.0,Wolves,Man City,0.0,4.0,4,2,2025-08-16T16:30:00Z,True,True
 8,1.0,Chelsea,Crystal Palace,0.0,0.0,3,3,2025-08-17T13:00:00Z,True,True
 4,1.0,Nott'm Forest,Brentford,3.0,1.0,3,3,2025-08-17T13:00:00Z,True,True
 9,1.0,Man Utd,Arsenal,0.0,1.0,4,4,2025-08-17T15:30:00Z,True,True
 10,1.0,Leeds,Everton,1.0,0.0,3,3,2025-08-18T19:00:00Z,True,True
-20,2.0,West Ham,Chelsea,1.0,5.0,3,2,2025-08-22T19:00:00Z,True,True
-18,2.0,Man City,Spurs,0.0,2.0,2,5,2025-08-23T11:30:00Z,True,True
-12,2.0,Bournemouth,Wolves,1.0,0.0,1,3,2025-08-23T14:00:00Z,True,True
+20,2.0,West Ham,Chelsea,1.0,5.0,3,3,2025-08-22T19:00:00Z,True,True
+18,2.0,Man City,Spurs,0.0,2.0,3,5,2025-08-23T11:30:00Z,True,True
+12,2.0,Bournemouth,Wolves,1.0,0.0,1,4,2025-08-23T14:00:00Z,True,True
 13,2.0,Brentford,Aston Villa,1.0,0.0,3,3,2025-08-23T14:00:00Z,True,True
 14,2.0,Burnley,Sunderland,2.0,0.0,2,2,2025-08-23T14:00:00Z,True,True
 11,2.0,Arsenal,Leeds,5.0,0.0,2,5,2025-08-23T16:30:00Z,True,True
-15,2.0,Crystal Palace,Nott'm Forest,1.0,1.0,2,3,2025-08-24T13:00:00Z,True,True
+15,2.0,Crystal Palace,Nott'm Forest,1.0,1.0,3,3,2025-08-24T13:00:00Z,True,True
 16,2.0,Everton,Brighton,2.0,0.0,3,3,2025-08-24T13:00:00Z,True,True
 17,2.0,Fulham,Man Utd,1.0,1.0,3,3,2025-08-24T15:30:00Z,True,True
 19,2.0,Newcastle,Liverpool,2.0,3.0,3,3,2025-08-25T19:00:00Z,True,True
 23,3.0,Chelsea,Fulham,2.0,0.0,3,3,2025-08-30T11:30:00Z,True,True
 26,3.0,Man Utd,Burnley,3.0,2.0,1,4,2025-08-30T14:00:00Z,True,True
-29,3.0,Spurs,Bournemouth,0.0,1.0,3,2,2025-08-30T14:00:00Z,True,True
+29,3.0,Spurs,Bournemouth,0.0,1.0,3,3,2025-08-30T14:00:00Z,True,True
 28,3.0,Sunderland,Brentford,2.0,1.0,3,3,2025-08-30T14:00:00Z,True,True
 30,3.0,Wolves,Everton,2.0,3.0,3,2,2025-08-30T14:00:00Z,True,True
 24,3.0,Leeds,Newcastle,0.0,0.0,3,3,2025-08-30T16:30:00Z,True,True
@@ -30,24 +32,24 @@ id,event,team_h_name,team_a_name,team_h_score,team_a_score,team_h_difficulty,tea
 27,3.0,Nott'm Forest,West Ham,0.0,3.0,2,3,2025-08-31T13:00:00Z,True,True
 25,3.0,Liverpool,Arsenal,1.0,0.0,4,4,2025-08-31T15:30:00Z,True,True
 21,3.0,Aston Villa,Crystal Palace,0.0,3.0,3,4,2025-08-31T18:00:00Z,True,True
-31,4.0,Arsenal,Nott'm Forest,3.0,0.0,2,5,2025-09-13T11:30:00Z,True,True
-32,4.0,Bournemouth,Brighton,2.0,1.0,3,3,2025-09-13T14:00:00Z,True,True
+31,4.0,Arsenal,Nott'm Forest,3.0,0.0,3,5,2025-09-13T11:30:00Z,True,True
+32,4.0,Bournemouth,Brighton,2.0,1.0,3,4,2025-09-13T14:00:00Z,True,True
 35,4.0,Crystal Palace,Sunderland,0.0,0.0,2,3,2025-09-13T14:00:00Z,True,True
 36,4.0,Everton,Aston Villa,0.0,0.0,3,3,2025-09-13T14:00:00Z,True,True
 37,4.0,Fulham,Leeds,1.0,0.0,2,3,2025-09-13T14:00:00Z,True,True
 39,4.0,Newcastle,Wolves,1.0,0.0,1,3,2025-09-13T14:00:00Z,True,True
-40,4.0,West Ham,Spurs,0.0,3.0,2,2,2025-09-13T16:30:00Z,True,True
+40,4.0,West Ham,Spurs,0.0,3.0,3,3,2025-09-13T16:30:00Z,True,True
 33,4.0,Brentford,Chelsea,2.0,2.0,3,3,2025-09-13T19:00:00Z,True,True
 34,4.0,Burnley,Liverpool,0.0,1.0,3,2,2025-09-14T13:00:00Z,True,True
 38,4.0,Man City,Man Utd,3.0,0.0,3,5,2025-09-14T15:30:00Z,True,True
 46,5.0,Liverpool,Everton,2.0,1.0,3,4,2025-09-20T11:30:00Z,True,True
-43,5.0,Brighton,Spurs,2.0,2.0,2,4,2025-09-20T14:00:00Z,True,True
-44,5.0,Burnley,Nott'm Forest,1.0,1.0,2,2,2025-09-20T14:00:00Z,True,True
-49,5.0,West Ham,Crystal Palace,1.0,2.0,3,2,2025-09-20T14:00:00Z,True,True
+43,5.0,Brighton,Spurs,2.0,2.0,3,4,2025-09-20T14:00:00Z,True,True
+44,5.0,Burnley,Nott'm Forest,1.0,1.0,3,2,2025-09-20T14:00:00Z,True,True
+49,5.0,West Ham,Crystal Palace,1.0,2.0,3,3,2025-09-20T14:00:00Z,True,True
 50,5.0,Wolves,Leeds,1.0,3.0,2,2,2025-09-20T14:00:00Z,True,True
 47,5.0,Man Utd,Chelsea,2.0,1.0,3,4,2025-09-20T16:30:00Z,True,True
 45,5.0,Fulham,Brentford,3.0,1.0,3,3,2025-09-20T19:00:00Z,True,True
-42,5.0,Bournemouth,Newcastle,0.0,0.0,3,3,2025-09-21T13:00:00Z,True,True
+42,5.0,Bournemouth,Newcastle,0.0,0.0,3,4,2025-09-21T13:00:00Z,True,True
 48,5.0,Sunderland,Aston Villa,1.0,1.0,3,3,2025-09-21T13:00:00Z,True,True
 41,5.0,Arsenal,Man City,1.0,1.0,4,5,2025-09-21T15:30:00Z,True,True
 52,6.0,Brentford,Man Utd,3.0,1.0,3,3,2025-09-27T11:30:00Z,True,True
@@ -56,18 +58,18 @@ id,event,team_h_name,team_a_name,team_h_score,team_a_score,team_h_difficulty,tea
 56,6.0,Leeds,Bournemouth,2.0,2.0,3,3,2025-09-27T14:00:00Z,True,True
 57,6.0,Man City,Burnley,5.0,1.0,1,5,2025-09-27T14:00:00Z,True,True
 59,6.0,Nott'm Forest,Sunderland,0.0,1.0,2,3,2025-09-27T16:30:00Z,True,True
-60,6.0,Spurs,Wolves,1.0,1.0,1,2,2025-09-27T19:00:00Z,True,True
+60,6.0,Spurs,Wolves,1.0,1.0,1,3,2025-09-27T19:00:00Z,True,True
 51,6.0,Aston Villa,Fulham,3.0,1.0,3,4,2025-09-28T13:00:00Z,True,True
 58,6.0,Newcastle,Arsenal,1.0,2.0,4,3,2025-09-28T15:30:00Z,True,True
 55,6.0,Everton,West Ham,1.0,1.0,2,3,2025-09-29T19:00:00Z,True,True
-63,7.0,Bournemouth,Fulham,3.0,1.0,3,3,2025-10-03T19:00:00Z,True,True
-67,7.0,Leeds,Spurs,1.0,2.0,2,3,2025-10-04T11:30:00Z,True,True
+63,7.0,Bournemouth,Fulham,3.0,1.0,3,4,2025-10-03T19:00:00Z,True,True
+67,7.0,Leeds,Spurs,1.0,2.0,3,3,2025-10-04T11:30:00Z,True,True
 61,7.0,Arsenal,West Ham,2.0,0.0,2,5,2025-10-04T14:00:00Z,True,True
 68,7.0,Man Utd,Sunderland,2.0,0.0,2,4,2025-10-04T14:00:00Z,True,True
 65,7.0,Chelsea,Liverpool,2.0,1.0,3,3,2025-10-04T16:30:00Z,True,True
 62,7.0,Aston Villa,Burnley,2.0,1.0,1,4,2025-10-05T13:00:00Z,True,True
 66,7.0,Everton,Crystal Palace,2.0,1.0,3,3,2025-10-05T13:00:00Z,True,True
-69,7.0,Newcastle,Nott'm Forest,2.0,0.0,2,3,2025-10-05T13:00:00Z,True,True
+69,7.0,Newcastle,Nott'm Forest,2.0,0.0,3,3,2025-10-05T13:00:00Z,True,True
 70,7.0,Wolves,Brighton,1.0,1.0,3,2,2025-10-05T13:00:00Z,True,True
 64,7.0,Brentford,Man City,0.0,1.0,4,3,2025-10-05T15:30:00Z,True,True
 77,8.0,Nott'm Forest,Chelsea,0.0,3.0,3,3,2025-10-18T11:30:00Z,True,True
@@ -77,9 +79,9 @@ id,event,team_h_name,team_a_name,team_h_score,team_a_score,team_h_difficulty,tea
 76,8.0,Man City,Everton,2.0,0.0,3,5,2025-10-18T14:00:00Z,True,True
 78,8.0,Sunderland,Wolves,2.0,0.0,1,3,2025-10-18T14:00:00Z,True,True
 74,8.0,Fulham,Arsenal,0.0,1.0,4,3,2025-10-18T16:30:00Z,True,True
-79,8.0,Spurs,Aston Villa,1.0,2.0,3,2,2025-10-19T13:00:00Z,True,True
+79,8.0,Spurs,Aston Villa,1.0,2.0,3,3,2025-10-19T13:00:00Z,True,True
 75,8.0,Liverpool,Man Utd,1.0,2.0,3,4,2025-10-19T15:30:00Z,True,True
-80,8.0,West Ham,Brentford,0.0,2.0,3,2,2025-10-20T19:00:00Z,True,True
+80,8.0,West Ham,Brentford,0.0,2.0,3,3,2025-10-20T19:00:00Z,True,True
 87,9.0,Leeds,West Ham,2.0,1.0,2,3,2025-10-24T19:00:00Z,True,True
 85,9.0,Chelsea,Sunderland,1.0,2.0,2,3,2025-10-25T14:00:00Z,True,True
 89,9.0,Newcastle,Fulham,2.0,1.0,3,3,2025-10-25T14:00:00Z,True,True
@@ -87,22 +89,22 @@ id,event,team_h_name,team_a_name,team_h_score,team_a_score,team_h_difficulty,tea
 84,9.0,Brentford,Liverpool,3.0,2.0,3,3,2025-10-25T19:00:00Z,True,True
 81,9.0,Arsenal,Crystal Palace,1.0,0.0,3,5,2025-10-26T14:00:00Z,True,True
 82,9.0,Aston Villa,Man City,1.0,0.0,4,4,2025-10-26T14:00:00Z,True,True
-83,9.0,Bournemouth,Nott'm Forest,2.0,0.0,2,3,2025-10-26T14:00:00Z,True,True
+83,9.0,Bournemouth,Nott'm Forest,2.0,0.0,3,4,2025-10-26T14:00:00Z,True,True
 90,9.0,Wolves,Burnley,2.0,3.0,1,2,2025-10-26T14:00:00Z,True,True
-86,9.0,Everton,Spurs,0.0,3.0,2,3,2025-10-26T16:30:00Z,True,True
+86,9.0,Everton,Spurs,0.0,3.0,3,3,2025-10-26T16:30:00Z,True,True
 91,10.0,Brighton,Leeds,3.0,0.0,2,4,2025-11-01T15:00:00Z,True,True
 92,10.0,Burnley,Arsenal,0.0,2.0,4,2,2025-11-01T15:00:00Z,True,True
 93,10.0,Crystal Palace,Brentford,2.0,0.0,3,3,2025-11-01T15:00:00Z,True,True
 94,10.0,Fulham,Wolves,3.0,0.0,1,3,2025-11-01T15:00:00Z,True,True
 97,10.0,Nott'm Forest,Man Utd,2.0,2.0,3,3,2025-11-01T15:00:00Z,True,True
-99,10.0,Spurs,Chelsea,0.0,1.0,3,2,2025-11-01T17:30:00Z,True,True
+99,10.0,Spurs,Chelsea,0.0,1.0,3,3,2025-11-01T17:30:00Z,True,True
 95,10.0,Liverpool,Aston Villa,2.0,0.0,3,4,2025-11-01T20:00:00Z,True,True
-100,10.0,West Ham,Newcastle,3.0,1.0,3,2,2025-11-02T14:00:00Z,True,True
+100,10.0,West Ham,Newcastle,3.0,1.0,3,3,2025-11-02T14:00:00Z,True,True
 96,10.0,Man City,Bournemouth,3.0,1.0,3,5,2025-11-02T16:30:00Z,True,True
 98,10.0,Sunderland,Everton,1.0,1.0,3,3,2025-11-03T20:00:00Z,True,True
-109,11.0,Spurs,Man Utd,2.0,2.0,3,2,2025-11-08T12:30:00Z,True,True
+109,11.0,Spurs,Man Utd,2.0,2.0,3,3,2025-11-08T12:30:00Z,True,True
 105,11.0,Everton,Fulham,2.0,0.0,3,3,2025-11-08T15:00:00Z,True,True
-110,11.0,West Ham,Burnley,3.0,2.0,1,2,2025-11-08T15:00:00Z,True,True
+110,11.0,West Ham,Burnley,3.0,2.0,1,3,2025-11-08T15:00:00Z,True,True
 108,11.0,Sunderland,Arsenal,2.0,2.0,4,3,2025-11-08T17:30:00Z,True,True
 103,11.0,Chelsea,Wolves,3.0,0.0,1,3,2025-11-08T20:00:00Z,True,True
 101,11.0,Aston Villa,Bournemouth,4.0,0.0,3,4,2025-11-09T14:00:00Z,True,True
@@ -111,41 +113,41 @@ id,event,team_h_name,team_a_name,team_h_score,team_a_score,team_h_difficulty,tea
 107,11.0,Nott'm Forest,Leeds,3.0,1.0,2,3,2025-11-09T14:00:00Z,True,True
 106,11.0,Man City,Liverpool,3.0,0.0,3,5,2025-11-09T16:30:00Z,True,True
 114,12.0,Burnley,Chelsea,0.0,2.0,3,2,2025-11-22T12:30:00Z,True,True
-112,12.0,Bournemouth,West Ham,2.0,2.0,2,3,2025-11-22T15:00:00Z,True,True
+112,12.0,Bournemouth,West Ham,2.0,2.0,2,4,2025-11-22T15:00:00Z,True,True
 113,12.0,Brighton,Brentford,2.0,1.0,3,4,2025-11-22T15:00:00Z,True,True
 115,12.0,Fulham,Sunderland,1.0,0.0,2,3,2025-11-22T15:00:00Z,True,True
-117,12.0,Liverpool,Nott'm Forest,0.0,3.0,2,4,2025-11-22T15:00:00Z,True,True
+117,12.0,Liverpool,Nott'm Forest,0.0,3.0,3,4,2025-11-22T15:00:00Z,True,True
 120,12.0,Wolves,Crystal Palace,0.0,2.0,3,2,2025-11-22T15:00:00Z,True,True
 119,12.0,Newcastle,Man City,2.0,1.0,4,3,2025-11-22T17:30:00Z,True,True
 116,12.0,Leeds,Aston Villa,1.0,2.0,3,3,2025-11-23T14:00:00Z,True,True
-111,12.0,Arsenal,Spurs,4.0,1.0,2,5,2025-11-23T16:30:00Z,True,True
+111,12.0,Arsenal,Spurs,4.0,1.0,3,5,2025-11-23T16:30:00Z,True,True
 118,12.0,Man Utd,Everton,0.0,1.0,3,4,2025-11-24T20:00:00Z,True,True
 122,13.0,Brentford,Burnley,3.0,1.0,1,3,2025-11-29T15:00:00Z,True,True
 126,13.0,Man City,Leeds,3.0,2.0,2,5,2025-11-29T15:00:00Z,True,True
 128,13.0,Sunderland,Bournemouth,3.0,2.0,3,3,2025-11-29T15:00:00Z,True,True
 125,13.0,Everton,Newcastle,1.0,4.0,3,3,2025-11-29T17:30:00Z,True,True
-129,13.0,Spurs,Fulham,1.0,2.0,3,2,2025-11-29T20:00:00Z,True,True
+129,13.0,Spurs,Fulham,1.0,2.0,3,3,2025-11-29T20:00:00Z,True,True
 124,13.0,Crystal Palace,Man Utd,1.0,2.0,3,3,2025-11-30T12:00:00Z,True,True
 121,13.0,Aston Villa,Wolves,1.0,0.0,1,4,2025-11-30T14:05:00Z,True,True
 127,13.0,Nott'm Forest,Brighton,0.0,2.0,3,3,2025-11-30T14:05:00Z,True,True
-130,13.0,West Ham,Liverpool,0.0,2.0,3,2,2025-11-30T14:05:00Z,True,True
+130,13.0,West Ham,Liverpool,0.0,2.0,3,3,2025-11-30T14:05:00Z,True,True
 123,13.0,Chelsea,Arsenal,1.0,1.0,4,3,2025-11-30T16:30:00Z,True,True
-132,14.0,Bournemouth,Everton,0.0,1.0,3,3,2025-12-02T19:30:00Z,True,True
+132,14.0,Bournemouth,Everton,0.0,1.0,3,4,2025-12-02T19:30:00Z,True,True
 135,14.0,Fulham,Man City,4.0,5.0,4,3,2025-12-02T19:30:00Z,True,True
-139,14.0,Newcastle,Spurs,2.0,2.0,2,3,2025-12-02T20:15:00Z,True,True
+139,14.0,Newcastle,Spurs,2.0,2.0,3,3,2025-12-02T20:15:00Z,True,True
 131,14.0,Arsenal,Brentford,2.0,0.0,3,5,2025-12-03T19:30:00Z,True,True
 133,14.0,Brighton,Aston Villa,3.0,4.0,3,4,2025-12-03T19:30:00Z,True,True
 134,14.0,Burnley,Crystal Palace,0.0,1.0,3,2,2025-12-03T19:30:00Z,True,True
-140,14.0,Wolves,Nott'm Forest,0.0,1.0,2,2,2025-12-03T19:30:00Z,True,True
+140,14.0,Wolves,Nott'm Forest,0.0,1.0,3,2,2025-12-03T19:30:00Z,True,True
 136,14.0,Leeds,Chelsea,3.0,1.0,3,3,2025-12-03T20:15:00Z,True,True
 137,14.0,Liverpool,Sunderland,1.0,1.0,2,4,2025-12-03T20:15:00Z,True,True
 138,14.0,Man Utd,West Ham,1.0,1.0,2,4,2025-12-04T20:00:00Z,True,True
 141,15.0,Aston Villa,Arsenal,2.0,1.0,4,4,2025-12-06T12:30:00Z,True,True
-142,15.0,Bournemouth,Chelsea,0.0,0.0,3,3,2025-12-06T15:00:00Z,True,True
-144,15.0,Everton,Nott'm Forest,3.0,0.0,2,3,2025-12-06T15:00:00Z,True,True
+142,15.0,Bournemouth,Chelsea,0.0,0.0,3,4,2025-12-06T15:00:00Z,True,True
+144,15.0,Everton,Nott'm Forest,3.0,0.0,3,3,2025-12-06T15:00:00Z,True,True
 147,15.0,Man City,Sunderland,3.0,0.0,2,5,2025-12-06T15:00:00Z,True,True
 148,15.0,Newcastle,Burnley,2.0,1.0,1,3,2025-12-06T15:00:00Z,True,True
-149,15.0,Spurs,Brentford,2.0,0.0,3,2,2025-12-06T15:00:00Z,True,True
+149,15.0,Spurs,Brentford,2.0,0.0,3,3,2025-12-06T15:00:00Z,True,True
 146,15.0,Leeds,Liverpool,3.0,3.0,3,3,2025-12-06T17:30:00Z,True,True
 143,15.0,Brighton,West Ham,1.0,1.0,2,4,2025-12-07T14:00:00Z,True,True
 145,15.0,Fulham,Crystal Palace,1.0,2.0,3,3,2025-12-07T16:30:00Z,True,True
@@ -155,53 +157,53 @@ id,event,team_h_name,team_a_name,team_h_score,team_a_score,team_h_difficulty,tea
 153,16.0,Burnley,Fulham,2.0,3.0,3,2,2025-12-13T17:30:00Z,True,True
 151,16.0,Arsenal,Wolves,2.0,1.0,1,5,2025-12-13T20:00:00Z,True,True
 155,16.0,Crystal Palace,Man City,0.0,3.0,4,3,2025-12-14T14:00:00Z,True,True
-158,16.0,Nott'm Forest,Spurs,3.0,0.0,2,3,2025-12-14T14:00:00Z,True,True
+158,16.0,Nott'm Forest,Spurs,3.0,0.0,3,3,2025-12-14T14:00:00Z,True,True
 159,16.0,Sunderland,Newcastle,1.0,0.0,3,3,2025-12-14T14:00:00Z,True,True
-160,16.0,West Ham,Aston Villa,2.0,3.0,3,2,2025-12-14T14:00:00Z,True,True
+160,16.0,West Ham,Aston Villa,2.0,3.0,3,3,2025-12-14T14:00:00Z,True,True
 152,16.0,Brentford,Leeds,1.0,1.0,2,3,2025-12-14T16:30:00Z,True,True
 157,16.0,Man Utd,Bournemouth,4.0,4.0,3,4,2025-12-15T20:00:00Z,True,True
 168,17.0,Newcastle,Chelsea,2.0,2.0,3,3,2025-12-20T12:30:00Z,True,True
-162,17.0,Bournemouth,Burnley,1.0,1.0,1,3,2025-12-20T15:00:00Z,True,True
+162,17.0,Bournemouth,Burnley,1.0,1.0,1,4,2025-12-20T15:00:00Z,True,True
 163,17.0,Brighton,Sunderland,0.0,0.0,2,4,2025-12-20T15:00:00Z,True,True
 167,17.0,Man City,West Ham,3.0,0.0,2,5,2025-12-20T15:00:00Z,True,True
 170,17.0,Wolves,Brentford,0.0,2.0,3,2,2025-12-20T15:00:00Z,True,True
-169,17.0,Spurs,Liverpool,1.0,2.0,3,2,2025-12-20T17:30:00Z,True,True
+169,17.0,Spurs,Liverpool,1.0,2.0,3,3,2025-12-20T17:30:00Z,True,True
 164,17.0,Everton,Arsenal,0.0,1.0,4,3,2025-12-20T20:00:00Z,True,True
 166,17.0,Leeds,Crystal Palace,4.0,1.0,3,3,2025-12-20T20:00:00Z,True,True
 161,17.0,Aston Villa,Man Utd,2.0,1.0,3,4,2025-12-21T16:30:00Z,True,True
-165,17.0,Fulham,Nott'm Forest,1.0,0.0,2,3,2025-12-22T20:00:00Z,True,True
+165,17.0,Fulham,Nott'm Forest,1.0,0.0,3,3,2025-12-22T20:00:00Z,True,True
 177,18.0,Man Utd,Newcastle,1.0,0.0,3,4,2025-12-26T20:00:00Z,True,True
 178,18.0,Nott'm Forest,Man City,1.0,2.0,4,3,2025-12-27T12:30:00Z,True,True
 171,18.0,Arsenal,Brighton,2.0,1.0,3,5,2025-12-27T15:00:00Z,True,True
 172,18.0,Brentford,Bournemouth,4.0,1.0,3,3,2025-12-27T15:00:00Z,True,True
 173,18.0,Burnley,Everton,0.0,0.0,3,2,2025-12-27T15:00:00Z,True,True
 176,18.0,Liverpool,Wolves,2.0,1.0,1,4,2025-12-27T15:00:00Z,True,True
-180,18.0,West Ham,Fulham,0.0,1.0,3,2,2025-12-27T15:00:00Z,True,True
+180,18.0,West Ham,Fulham,0.0,1.0,3,3,2025-12-27T15:00:00Z,True,True
 174,18.0,Chelsea,Aston Villa,1.0,2.0,3,3,2025-12-27T17:30:00Z,True,True
 179,18.0,Sunderland,Leeds,1.0,1.0,2,3,2025-12-28T14:00:00Z,True,True
-175,18.0,Crystal Palace,Spurs,0.0,1.0,2,3,2025-12-28T16:30:00Z,True,True
+175,18.0,Crystal Palace,Spurs,0.0,1.0,3,3,2025-12-28T16:30:00Z,True,True
 183,19.0,Burnley,Newcastle,1.0,3.0,3,2,2025-12-30T19:30:00Z,True,True
 184,19.0,Chelsea,Bournemouth,2.0,2.0,3,3,2025-12-30T19:30:00Z,True,True
 188,19.0,Nott'm Forest,Everton,0.0,2.0,3,3,2025-12-30T19:30:00Z,True,True
-190,19.0,West Ham,Brighton,2.0,2.0,3,2,2025-12-30T19:30:00Z,True,True
+190,19.0,West Ham,Brighton,2.0,2.0,3,3,2025-12-30T19:30:00Z,True,True
 181,19.0,Arsenal,Aston Villa,4.0,1.0,3,5,2025-12-30T20:15:00Z,True,True
 187,19.0,Man Utd,Wolves,1.0,1.0,1,4,2025-12-30T20:15:00Z,True,True
 185,19.0,Crystal Palace,Fulham,1.0,1.0,3,3,2026-01-01T17:30:00Z,True,True
 186,19.0,Liverpool,Leeds,0.0,0.0,2,4,2026-01-01T17:30:00Z,True,True
-182,19.0,Brentford,Spurs,0.0,0.0,2,3,2026-01-01T20:00:00Z,True,True
+182,19.0,Brentford,Spurs,0.0,0.0,3,3,2026-01-01T20:00:00Z,True,True
 189,19.0,Sunderland,Man City,0.0,0.0,4,3,2026-01-01T20:00:00Z,True,True
-191,20.0,Aston Villa,Nott'm Forest,3.0,1.0,2,4,2026-01-03T12:30:00Z,True,True
+191,20.0,Aston Villa,Nott'm Forest,3.0,1.0,3,4,2026-01-03T12:30:00Z,True,True
 193,20.0,Brighton,Burnley,2.0,0.0,1,4,2026-01-03T15:00:00Z,True,True
 200,20.0,Wolves,West Ham,3.0,0.0,2,2,2026-01-03T15:00:00Z,True,True
-192,20.0,Bournemouth,Arsenal,2.0,3.0,4,3,2026-01-03T17:30:00Z,True,True
+192,20.0,Bournemouth,Arsenal,2.0,3.0,4,4,2026-01-03T17:30:00Z,True,True
 196,20.0,Leeds,Man Utd,1.0,1.0,3,3,2026-01-04T12:30:00Z,True,True
 194,20.0,Everton,Brentford,2.0,4.0,3,3,2026-01-04T15:00:00Z,True,True
 198,20.0,Newcastle,Crystal Palace,2.0,0.0,3,3,2026-01-04T15:00:00Z,True,True
-199,20.0,Spurs,Sunderland,1.0,1.0,2,2,2026-01-04T15:00:00Z,True,True
+199,20.0,Spurs,Sunderland,1.0,1.0,2,3,2026-01-04T15:00:00Z,True,True
 195,20.0,Fulham,Liverpool,2.0,2.0,3,3,2026-01-04T15:15:00Z,True,True
 197,20.0,Man City,Chelsea,1.0,1.0,3,5,2026-01-04T17:30:00Z,True,True
-210,21.0,West Ham,Nott'm Forest,1.0,2.0,2,2,2026-01-06T20:00:00Z,True,True
-202,21.0,Bournemouth,Spurs,3.0,2.0,2,3,2026-01-07T19:30:00Z,True,True
+210,21.0,West Ham,Nott'm Forest,1.0,2.0,3,3,2026-01-06T20:00:00Z,True,True
+202,21.0,Bournemouth,Spurs,3.0,2.0,3,4,2026-01-07T19:30:00Z,True,True
 203,21.0,Brentford,Sunderland,3.0,0.0,2,3,2026-01-07T19:30:00Z,True,True
 205,21.0,Crystal Palace,Aston Villa,0.0,0.0,3,3,2026-01-07T19:30:00Z,True,True
 206,21.0,Everton,Wolves,1.0,1.0,1,3,2026-01-07T19:30:00Z,True,True
@@ -214,18 +216,18 @@ id,event,team_h_name,team_a_name,team_h_score,team_a_score,team_h_difficulty,tea
 213,22.0,Chelsea,Brentford,2.0,0.0,3,3,2026-01-17T15:00:00Z,True,True
 214,22.0,Leeds,Fulham,1.0,0.0,3,3,2026-01-17T15:00:00Z,True,True
 215,22.0,Liverpool,Burnley,1.0,1.0,1,4,2026-01-17T15:00:00Z,True,True
-219,22.0,Spurs,West Ham,1.0,2.0,2,2,2026-01-17T15:00:00Z,True,True
+219,22.0,Spurs,West Ham,1.0,2.0,2,3,2026-01-17T15:00:00Z,True,True
 218,22.0,Sunderland,Crystal Palace,2.0,1.0,3,3,2026-01-17T15:00:00Z,True,True
 217,22.0,Nott'm Forest,Arsenal,0.0,0.0,4,3,2026-01-17T17:30:00Z,True,True
 220,22.0,Wolves,Newcastle,0.0,0.0,3,2,2026-01-18T14:00:00Z,True,True
 211,22.0,Aston Villa,Everton,0.0,1.0,3,4,2026-01-18T16:30:00Z,True,True
 212,22.0,Brighton,Bournemouth,1.0,1.0,3,4,2026-01-19T20:00:00Z,True,True
-230,23.0,West Ham,Sunderland,3.0,1.0,2,2,2026-01-24T12:30:00Z,True,True
-224,23.0,Burnley,Spurs,2.0,2.0,2,2,2026-01-24T15:00:00Z,True,True
+230,23.0,West Ham,Sunderland,3.0,1.0,2,3,2026-01-24T12:30:00Z,True,True
+224,23.0,Burnley,Spurs,2.0,2.0,3,2,2026-01-24T15:00:00Z,True,True
 227,23.0,Fulham,Brighton,2.0,1.0,3,3,2026-01-24T15:00:00Z,True,True
 228,23.0,Man City,Wolves,2.0,0.0,1,5,2026-01-24T15:00:00Z,True,True
-222,23.0,Bournemouth,Liverpool,3.0,2.0,3,3,2026-01-24T17:30:00Z,True,True
-223,23.0,Brentford,Nott'm Forest,0.0,2.0,2,3,2026-01-25T14:00:00Z,True,True
+222,23.0,Bournemouth,Liverpool,3.0,2.0,3,4,2026-01-24T17:30:00Z,True,True
+223,23.0,Brentford,Nott'm Forest,0.0,2.0,3,3,2026-01-25T14:00:00Z,True,True
 225,23.0,Crystal Palace,Chelsea,1.0,3.0,3,3,2026-01-25T14:00:00Z,True,True
 229,23.0,Newcastle,Aston Villa,0.0,2.0,3,3,2026-01-25T14:00:00Z,True,True
 221,23.0,Arsenal,Man Utd,2.0,3.0,3,5,2026-01-25T16:30:00Z,True,True
@@ -238,12 +240,12 @@ id,event,team_h_name,team_a_name,team_h_score,team_a_score,team_h_difficulty,tea
 231,24.0,Aston Villa,Brentford,0.0,1.0,3,4,2026-02-01T14:00:00Z,True,True
 236,24.0,Man Utd,Fulham,3.0,2.0,3,4,2026-02-01T14:00:00Z,True,True
 237,24.0,Nott'm Forest,Crystal Palace,1.0,1.0,3,3,2026-02-01T14:00:00Z,True,True
-239,24.0,Spurs,Man City,2.0,2.0,4,2,2026-02-01T16:30:00Z,True,True
+239,24.0,Spurs,Man City,2.0,2.0,4,3,2026-02-01T16:30:00Z,True,True
 238,24.0,Sunderland,Burnley,3.0,0.0,1,3,2026-02-02T20:00:00Z,True,True
-246,25.0,Leeds,Nott'm Forest,3.0,1.0,2,3,2026-02-06T20:00:00Z,True,True
-248,25.0,Man Utd,Spurs,2.0,0.0,2,4,2026-02-07T12:30:00Z,True,True
+246,25.0,Leeds,Nott'm Forest,3.0,1.0,3,3,2026-02-06T20:00:00Z,True,True
+248,25.0,Man Utd,Spurs,2.0,0.0,3,4,2026-02-07T12:30:00Z,True,True
 241,25.0,Arsenal,Sunderland,3.0,0.0,2,5,2026-02-07T15:00:00Z,True,True
-242,25.0,Bournemouth,Aston Villa,1.0,1.0,3,3,2026-02-07T15:00:00Z,True,True
+242,25.0,Bournemouth,Aston Villa,1.0,1.0,3,4,2026-02-07T15:00:00Z,True,True
 244,25.0,Burnley,West Ham,0.0,2.0,2,2,2026-02-07T15:00:00Z,True,True
 245,25.0,Fulham,Everton,1.0,2.0,3,3,2026-02-07T15:00:00Z,True,True
 250,25.0,Wolves,Chelsea,1.0,3.0,3,2,2026-02-07T15:00:00Z,True,True
@@ -252,8 +254,8 @@ id,event,team_h_name,team_a_name,team_h_score,team_a_score,team_h_difficulty,tea
 247,25.0,Liverpool,Man City,1.0,2.0,4,4,2026-02-08T16:30:00Z,True,True
 253,26.0,Chelsea,Leeds,2.0,2.0,2,3,2026-02-10T19:30:00Z,True,True
 255,26.0,Everton,Bournemouth,1.0,2.0,3,3,2026-02-10T19:30:00Z,True,True
-259,26.0,Spurs,Newcastle,1.0,2.0,3,2,2026-02-10T19:30:00Z,True,True
-260,26.0,West Ham,Man Utd,1.0,1.0,3,2,2026-02-10T20:15:00Z,True,True
+259,26.0,Spurs,Newcastle,1.0,2.0,3,3,2026-02-10T19:30:00Z,True,True
+260,26.0,West Ham,Man Utd,1.0,1.0,3,3,2026-02-10T20:15:00Z,True,True
 251,26.0,Aston Villa,Brighton,1.0,0.0,3,4,2026-02-11T19:30:00Z,True,True
 256,26.0,Man City,Fulham,3.0,0.0,3,5,2026-02-11T19:30:00Z,True,True
 257,26.0,Nott'm Forest,Wolves,0.0,0.0,1,3,2026-02-11T19:30:00Z,True,True
@@ -264,90 +266,90 @@ id,event,team_h_name,team_a_name,team_h_score,team_a_score,team_h_difficulty,tea
 261,27.0,Aston Villa,Leeds,1.0,1.0,2,4,2026-02-21T15:00:00Z,True,True
 262,27.0,Brentford,Brighton,0.0,2.0,3,3,2026-02-21T15:00:00Z,True,True
 263,27.0,Chelsea,Burnley,1.0,1.0,1,3,2026-02-21T15:00:00Z,True,True
-270,27.0,West Ham,Bournemouth,0.0,0.0,3,2,2026-02-21T17:30:00Z,True,True
+270,27.0,West Ham,Bournemouth,0.0,0.0,3,3,2026-02-21T17:30:00Z,True,True
 266,27.0,Man City,Newcastle,2.0,1.0,3,5,2026-02-21T20:00:00Z,True,True
 264,27.0,Crystal Palace,Wolves,1.0,0.0,1,3,2026-02-22T14:00:00Z,True,True
 267,27.0,Nott'm Forest,Liverpool,0.0,1.0,3,3,2026-02-22T14:00:00Z,True,True
 268,27.0,Sunderland,Fulham,1.0,3.0,3,3,2026-02-22T14:00:00Z,True,True
-269,27.0,Spurs,Arsenal,1.0,4.0,4,2,2026-02-22T16:30:00Z,True,True
+269,27.0,Spurs,Arsenal,1.0,4.0,4,3,2026-02-22T16:30:00Z,True,True
 265,27.0,Everton,Man Utd,0.0,1.0,3,3,2026-02-23T20:00:00Z,True,True
 280,28.0,Wolves,Aston Villa,2.0,0.0,3,2,2026-02-27T20:00:00Z,True,True
-272,28.0,Bournemouth,Sunderland,1.0,1.0,2,3,2026-02-28T12:30:00Z,True,True
+272,28.0,Bournemouth,Sunderland,1.0,1.0,2,4,2026-02-28T12:30:00Z,True,True
 274,28.0,Burnley,Brentford,3.0,4.0,3,2,2026-02-28T15:00:00Z,True,True
 277,28.0,Liverpool,West Ham,5.0,2.0,2,4,2026-02-28T15:00:00Z,True,True
 279,28.0,Newcastle,Everton,2.0,3.0,3,3,2026-02-28T15:00:00Z,True,True
 276,28.0,Leeds,Man City,0.0,1.0,4,3,2026-02-28T17:30:00Z,True,True
-273,28.0,Brighton,Nott'm Forest,2.0,1.0,2,4,2026-03-01T14:00:00Z,True,True
-275,28.0,Fulham,Spurs,2.0,1.0,2,3,2026-03-01T14:00:00Z,True,True
+273,28.0,Brighton,Nott'm Forest,2.0,1.0,3,4,2026-03-01T14:00:00Z,True,True
+275,28.0,Fulham,Spurs,2.0,1.0,3,3,2026-03-01T14:00:00Z,True,True
 278,28.0,Man Utd,Crystal Palace,2.0,1.0,3,4,2026-03-01T14:00:00Z,True,True
 271,28.0,Arsenal,Chelsea,2.0,1.0,3,5,2026-03-01T16:30:00Z,True,True
-282,29.0,Bournemouth,Brentford,0.0,0.0,3,3,2026-03-03T19:30:00Z,True,True
+282,29.0,Bournemouth,Brentford,0.0,0.0,3,4,2026-03-03T19:30:00Z,True,True
 284,29.0,Everton,Burnley,2.0,0.0,1,3,2026-03-03T19:30:00Z,True,True
 286,29.0,Leeds,Sunderland,0.0,1.0,2,3,2026-03-03T19:30:00Z,True,True
 290,29.0,Wolves,Liverpool,2.0,1.0,3,2,2026-03-03T20:15:00Z,True,True
 281,29.0,Aston Villa,Chelsea,1.0,4.0,3,4,2026-03-04T19:30:00Z,True,True
 283,29.0,Brighton,Arsenal,0.0,1.0,4,4,2026-03-04T19:30:00Z,True,True
 285,29.0,Fulham,West Ham,0.0,1.0,2,3,2026-03-04T19:30:00Z,True,True
-287,29.0,Man City,Nott'm Forest,2.0,2.0,2,5,2026-03-04T19:30:00Z,True,True
+287,29.0,Man City,Nott'm Forest,2.0,2.0,3,5,2026-03-04T19:30:00Z,True,True
 288,29.0,Newcastle,Man Utd,2.0,1.0,3,3,2026-03-04T20:15:00Z,True,True
-289,29.0,Spurs,Crystal Palace,1.0,3.0,3,2,2026-03-05T20:00:00Z,True,True
+289,29.0,Spurs,Crystal Palace,1.0,3.0,3,3,2026-03-05T20:00:00Z,True,True
 293,30.0,Burnley,Bournemouth,0.0,0.0,3,2,2026-03-14T15:00:00Z,True,True
 299,30.0,Sunderland,Brighton,0.0,1.0,3,3,2026-03-14T15:00:00Z,True,True
 291,30.0,Arsenal,Everton,2.0,0.0,3,5,2026-03-14T17:30:00Z,True,True
 294,30.0,Chelsea,Newcastle,0.0,1.0,3,3,2026-03-14T17:30:00Z,True,True
-300,30.0,West Ham,Man City,1.0,1.0,4,2,2026-03-14T20:00:00Z,True,True
+300,30.0,West Ham,Man City,1.0,1.0,4,3,2026-03-14T20:00:00Z,True,True
 295,30.0,Crystal Palace,Leeds,0.0,0.0,2,3,2026-03-15T14:00:00Z,True,True
 297,30.0,Man Utd,Aston Villa,3.0,1.0,3,4,2026-03-15T14:00:00Z,True,True
 298,30.0,Nott'm Forest,Fulham,0.0,0.0,3,3,2026-03-15T14:00:00Z,True,True
-296,30.0,Liverpool,Spurs,1.0,1.0,2,4,2026-03-15T16:30:00Z,True,True
+296,30.0,Liverpool,Spurs,1.0,1.0,3,4,2026-03-15T16:30:00Z,True,True
 292,30.0,Brentford,Wolves,2.0,2.0,1,3,2026-03-16T20:00:00Z,True,True
-302,31.0,Bournemouth,Man Utd,2.0,2.0,3,3,2026-03-20T20:00:00Z,True,True
+302,31.0,Bournemouth,Man Utd,2.0,2.0,3,4,2026-03-20T20:00:00Z,True,True
 303,31.0,Brighton,Liverpool,2.0,1.0,3,4,2026-03-21T12:45:00Z,True,True
 305,31.0,Fulham,Burnley,3.0,1.0,1,3,2026-03-21T15:00:00Z,True,True
 304,31.0,Everton,Chelsea,3.0,0.0,3,3,2026-03-21T17:30:00Z,True,True
 306,31.0,Leeds,Brentford,0.0,0.0,3,3,2026-03-21T20:00:00Z,True,True
 308,31.0,Newcastle,Sunderland,1.0,2.0,2,3,2026-03-22T12:00:00Z,True,True
 301,31.0,Aston Villa,West Ham,2.0,0.0,2,4,2026-03-22T14:15:00Z,True,True
-309,31.0,Spurs,Nott'm Forest,0.0,3.0,2,2,2026-03-22T14:15:00Z,True,True
-320,32.0,West Ham,Wolves,4.0,0.0,1,2,2026-04-10T19:00:00Z,True,True
+309,31.0,Spurs,Nott'm Forest,0.0,3.0,3,3,2026-03-22T14:15:00Z,True,True
+320,32.0,West Ham,Wolves,4.0,0.0,1,3,2026-04-10T19:00:00Z,True,True
 311,32.0,Arsenal,Bournemouth,1.0,2.0,3,5,2026-04-11T11:30:00Z,True,True
 312,32.0,Brentford,Everton,2.0,2.0,3,3,2026-04-11T14:00:00Z,True,True
 313,32.0,Burnley,Brighton,0.0,2.0,3,2,2026-04-11T14:00:00Z,True,True
 316,32.0,Liverpool,Fulham,2.0,0.0,3,4,2026-04-11T16:30:00Z,True,True
 315,32.0,Crystal Palace,Newcastle,2.0,1.0,3,3,2026-04-12T13:00:00Z,True,True
 318,32.0,Nott'm Forest,Aston Villa,1.0,1.0,3,3,2026-04-12T13:00:00Z,True,True
-319,32.0,Sunderland,Spurs,1.0,0.0,2,3,2026-04-12T13:00:00Z,True,True
+319,32.0,Sunderland,Spurs,1.0,0.0,3,3,2026-04-12T13:00:00Z,True,True
 314,32.0,Chelsea,Man City,0.0,3.0,4,3,2026-04-12T15:30:00Z,True,True
 317,32.0,Man Utd,Leeds,1.0,2.0,2,4,2026-04-13T19:00:00Z,True,True
 322,33.0,Brentford,Fulham,0.0,0.0,3,3,2026-04-18T11:30:00Z,True,True
 326,33.0,Leeds,Wolves,3.0,0.0,1,3,2026-04-18T14:00:00Z,True,True
 328,33.0,Newcastle,Bournemouth,1.0,2.0,3,3,2026-04-18T14:00:00Z,True,True
-330,33.0,Spurs,Brighton,2.0,2.0,3,2,2026-04-18T16:30:00Z,True,True
+330,33.0,Spurs,Brighton,2.0,2.0,3,3,2026-04-18T16:30:00Z,True,True
 323,33.0,Chelsea,Man Utd,0.0,1.0,3,3,2026-04-18T19:00:00Z,True,True
 321,33.0,Aston Villa,Sunderland,4.0,3.0,2,4,2026-04-19T13:00:00Z,True,True
 325,33.0,Everton,Liverpool,1.0,2.0,3,3,2026-04-19T13:00:00Z,True,True
 329,33.0,Nott'm Forest,Burnley,4.0,1.0,1,3,2026-04-19T13:00:00Z,True,True
 327,33.0,Man City,Arsenal,2.0,1.0,4,5,2026-04-19T15:30:00Z,True,True
 324,33.0,Crystal Palace,West Ham,0.0,0.0,2,3,2026-04-20T19:00:00Z,True,True
-333,33.0,Brighton,Chelsea,,,3,4,2026-04-21T19:00:00Z,False,False
-332,33.0,Bournemouth,Leeds,,,2,3,2026-04-22T19:00:00Z,False,False
-334,33.0,Burnley,Man City,,,4,2,2026-04-22T19:00:00Z,False,False
-338,34.0,Sunderland,Nott'm Forest,,,2,3,2026-04-24T19:00:00Z,False,False
-335,34.0,Fulham,Aston Villa,,,3,3,2026-04-25T11:30:00Z,False,False
-336,34.0,Liverpool,Crystal Palace,,,3,4,2026-04-25T14:00:00Z,False,False
-339,34.0,West Ham,Everton,,,3,2,2026-04-25T14:00:00Z,False,False
-340,34.0,Wolves,Spurs,,,2,2,2026-04-25T14:00:00Z,False,False
-331,34.0,Arsenal,Newcastle,,,3,5,2026-04-25T16:30:00Z,False,False
-337,34.0,Man Utd,Brentford,,,3,4,2026-04-27T19:00:00Z,False,False
+333,33.0,Brighton,Chelsea,3.0,0.0,3,4,2026-04-21T19:00:00Z,True,True
+332,33.0,Bournemouth,Leeds,2.0,2.0,2,4,2026-04-22T19:00:00Z,True,True
+334,33.0,Burnley,Man City,0.0,1.0,4,2,2026-04-22T19:00:00Z,True,True
+338,34.0,Sunderland,Nott'm Forest,0.0,5.0,3,3,2026-04-24T19:00:00Z,True,True
+335,34.0,Fulham,Aston Villa,1.0,0.0,3,3,2026-04-25T11:30:00Z,True,True
+336,34.0,Liverpool,Crystal Palace,3.0,1.0,3,4,2026-04-25T14:00:00Z,True,True
+339,34.0,West Ham,Everton,2.0,1.0,3,3,2026-04-25T14:00:00Z,True,True
+340,34.0,Wolves,Spurs,0.0,1.0,3,2,2026-04-25T14:00:00Z,True,True
+331,34.0,Arsenal,Newcastle,1.0,0.0,3,5,2026-04-25T16:30:00Z,True,True
+337,34.0,Man Utd,Brentford,2.0,1.0,3,4,2026-04-27T19:00:00Z,True,True
 347,35.0,Leeds,Burnley,,,1,3,2026-05-01T19:00:00Z,False,False
 344,35.0,Brentford,West Ham,,,2,3,2026-05-02T14:00:00Z,False,False
 349,35.0,Newcastle,Brighton,,,3,3,2026-05-02T14:00:00Z,False,False
 350,35.0,Wolves,Sunderland,,,2,2,2026-05-02T14:00:00Z,False,False
 341,35.0,Arsenal,Fulham,,,3,5,2026-05-02T16:30:00Z,False,False
-343,35.0,Bournemouth,Crystal Palace,,,3,3,2026-05-03T13:00:00Z,False,False
+343,35.0,Bournemouth,Crystal Palace,,,3,4,2026-05-03T13:00:00Z,False,False
 348,35.0,Man Utd,Liverpool,,,3,4,2026-05-03T14:30:00Z,False,False
-342,35.0,Aston Villa,Spurs,,,2,4,2026-05-03T18:00:00Z,False,False
-345,35.0,Chelsea,Nott'm Forest,,,2,3,2026-05-04T14:00:00Z,False,False
+342,35.0,Aston Villa,Spurs,,,3,4,2026-05-03T18:00:00Z,False,False
+345,35.0,Chelsea,Nott'm Forest,,,3,3,2026-05-04T14:00:00Z,False,False
 346,35.0,Everton,Man City,,,4,3,2026-05-04T19:00:00Z,False,False
 355,36.0,Liverpool,Chelsea,,,3,4,2026-05-09T11:30:00Z,False,False
 351,36.0,Brighton,Wolves,,,1,4,2026-05-09T14:00:00Z,False,False
@@ -357,16 +359,14 @@ id,event,team_h_name,team_a_name,team_h_score,team_a_score,team_h_difficulty,tea
 352,36.0,Burnley,Aston Villa,,,3,2,2026-05-10T13:00:00Z,False,False
 353,36.0,Crystal Palace,Everton,,,3,3,2026-05-10T13:00:00Z,False,False
 357,36.0,Nott'm Forest,Newcastle,,,3,3,2026-05-10T13:00:00Z,False,False
-360,36.0,West Ham,Arsenal,,,4,2,2026-05-10T15:30:00Z,False,False
-359,36.0,Spurs,Leeds,,,2,2,2026-05-11T19:00:00Z,False,False
+360,36.0,West Ham,Arsenal,,,4,3,2026-05-10T15:30:00Z,False,False
+359,36.0,Spurs,Leeds,,,2,3,2026-05-11T19:00:00Z,False,False
 361,37.0,Arsenal,Burnley,,,1,5,2026-05-17T14:00:00Z,False,False
 362,37.0,Aston Villa,Liverpool,,,3,4,2026-05-17T14:00:00Z,False,False
-363,37.0,Bournemouth,Man City,,,4,3,2026-05-17T14:00:00Z,False,False
 364,37.0,Brentford,Crystal Palace,,,3,3,2026-05-17T14:00:00Z,False,False
-365,37.0,Chelsea,Spurs,,,2,3,2026-05-17T14:00:00Z,False,False
 366,37.0,Everton,Sunderland,,,2,3,2026-05-17T14:00:00Z,False,False
 367,37.0,Leeds,Brighton,,,3,3,2026-05-17T14:00:00Z,False,False
-368,37.0,Man Utd,Nott'm Forest,,,2,4,2026-05-17T14:00:00Z,False,False
+368,37.0,Man Utd,Nott'm Forest,,,3,4,2026-05-17T14:00:00Z,False,False
 369,37.0,Newcastle,West Ham,,,2,3,2026-05-17T14:00:00Z,False,False
 370,37.0,Wolves,Fulham,,,3,2,2026-05-17T14:00:00Z,False,False
 371,38.0,Brighton,Man Utd,,,3,4,2026-05-24T15:00:00Z,False,False
@@ -376,6 +376,6 @@ id,event,team_h_name,team_a_name,team_h_score,team_a_score,team_h_difficulty,tea
 375,38.0,Liverpool,Brentford,,,3,4,2026-05-24T15:00:00Z,False,False
 376,38.0,Man City,Aston Villa,,,3,5,2026-05-24T15:00:00Z,False,False
 377,38.0,Nott'm Forest,Bournemouth,,,3,3,2026-05-24T15:00:00Z,False,False
-379,38.0,Spurs,Everton,,,3,2,2026-05-24T15:00:00Z,False,False
+379,38.0,Spurs,Everton,,,3,3,2026-05-24T15:00:00Z,False,False
 378,38.0,Sunderland,Chelsea,,,3,3,2026-05-24T15:00:00Z,False,False
-380,38.0,West Ham,Leeds,,,2,2,2026-05-24T15:00:00Z,False,False
+380,38.0,West Ham,Leeds,,,2,3,2026-05-24T15:00:00Z,False,False
