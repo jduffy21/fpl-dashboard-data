@@ -348,18 +348,18 @@ id,event,team_h_name,team_a_name,team_h_score,team_a_score,team_h_difficulty,tea
 342,35,Aston Villa,Spurs,1.0,2.0,3,4,2026-05-03T18:00:00Z,True,True
 345,35,Chelsea,Nott'm Forest,1.0,3.0,3,3,2026-05-04T14:00:00Z,True,True
 346,35,Everton,Man City,3.0,3.0,4,3,2026-05-04T19:00:00Z,True,True
-355,36,Liverpool,Chelsea,,,3,4,2026-05-09T11:30:00Z,False,False
-351,36,Brighton,Wolves,,,1,4,2026-05-09T14:00:00Z,False,False
-354,36,Fulham,Bournemouth,,,3,3,2026-05-09T14:00:00Z,False,False
-358,36,Sunderland,Man Utd,,,3,3,2026-05-09T14:00:00Z,False,False
-356,36,Man City,Brentford,,,3,5,2026-05-09T16:30:00Z,False,False
-352,36,Burnley,Aston Villa,,,3,2,2026-05-10T13:00:00Z,False,False
-353,36,Crystal Palace,Everton,,,3,3,2026-05-10T13:00:00Z,False,False
-357,36,Nott'm Forest,Newcastle,,,3,3,2026-05-10T13:00:00Z,False,False
-360,36,West Ham,Arsenal,,,4,3,2026-05-10T15:30:00Z,False,False
-359,36,Spurs,Leeds,,,2,3,2026-05-11T19:00:00Z,False,False
+355,36,Liverpool,Chelsea,1.0,1.0,3,4,2026-05-09T11:30:00Z,True,True
+351,36,Brighton,Wolves,3.0,0.0,1,4,2026-05-09T14:00:00Z,True,True
+354,36,Fulham,Bournemouth,0.0,1.0,3,3,2026-05-09T14:00:00Z,True,True
+358,36,Sunderland,Man Utd,0.0,0.0,3,3,2026-05-09T14:00:00Z,True,True
+356,36,Man City,Brentford,3.0,0.0,3,5,2026-05-09T16:30:00Z,True,True
+352,36,Burnley,Aston Villa,2.0,2.0,3,2,2026-05-10T13:00:00Z,True,True
+353,36,Crystal Palace,Everton,2.0,2.0,3,3,2026-05-10T13:00:00Z,True,True
+357,36,Nott'm Forest,Newcastle,1.0,1.0,3,3,2026-05-10T13:00:00Z,True,True
+360,36,West Ham,Arsenal,0.0,1.0,4,3,2026-05-10T15:30:00Z,True,True
+359,36,Spurs,Leeds,1.0,1.0,2,3,2026-05-11T19:00:00Z,True,True
 307,36,Man City,Crystal Palace,,,3,5,2026-05-13T19:00:00Z,False,False
-362,37,Aston Villa,Liverpool,,,3,4,2026-05-17T11:30:00Z,False,False
+362,37,Aston Villa,Liverpool,,,3,4,2026-05-15T19:00:00Z,False,False
 368,37,Man Utd,Nott'm Forest,,,3,4,2026-05-17T11:30:00Z,False,False
 364,37,Brentford,Crystal Palace,,,3,3,2026-05-17T14:00:00Z,False,False
 366,37,Everton,Sunderland,,,2,3,2026-05-17T14:00:00Z,False,False
