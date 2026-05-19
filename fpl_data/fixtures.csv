@@ -358,15 +358,15 @@ id,event,team_h_name,team_a_name,team_h_score,team_a_score,team_h_difficulty,tea
 357,36,Nott'm Forest,Newcastle,1.0,1.0,3,3,2026-05-10T13:00:00Z,True,True
 360,36,West Ham,Arsenal,0.0,1.0,4,3,2026-05-10T15:30:00Z,True,True
 359,36,Spurs,Leeds,1.0,1.0,2,3,2026-05-11T19:00:00Z,True,True
-307,36,Man City,Crystal Palace,,,3,5,2026-05-13T19:00:00Z,False,False
-362,37,Aston Villa,Liverpool,,,3,4,2026-05-15T19:00:00Z,False,False
-368,37,Man Utd,Nott'm Forest,,,3,4,2026-05-17T11:30:00Z,False,False
-364,37,Brentford,Crystal Palace,,,3,3,2026-05-17T14:00:00Z,False,False
-366,37,Everton,Sunderland,,,2,3,2026-05-17T14:00:00Z,False,False
-367,37,Leeds,Brighton,,,3,3,2026-05-17T14:00:00Z,False,False
-370,37,Wolves,Fulham,,,3,2,2026-05-17T14:00:00Z,False,False
-369,37,Newcastle,West Ham,,,2,3,2026-05-17T16:30:00Z,False,False
-361,37,Arsenal,Burnley,,,1,5,2026-05-18T19:00:00Z,False,False
+307,36,Man City,Crystal Palace,3.0,0.0,3,5,2026-05-13T19:00:00Z,True,True
+362,37,Aston Villa,Liverpool,4.0,2.0,3,4,2026-05-15T19:00:00Z,True,True
+368,37,Man Utd,Nott'm Forest,3.0,2.0,3,4,2026-05-17T11:30:00Z,True,True
+364,37,Brentford,Crystal Palace,2.0,2.0,3,3,2026-05-17T14:00:00Z,True,True
+366,37,Everton,Sunderland,1.0,3.0,2,3,2026-05-17T14:00:00Z,True,True
+367,37,Leeds,Brighton,1.0,0.0,3,3,2026-05-17T14:00:00Z,True,True
+370,37,Wolves,Fulham,1.0,1.0,3,2,2026-05-17T14:00:00Z,True,True
+369,37,Newcastle,West Ham,3.0,1.0,2,3,2026-05-17T16:30:00Z,True,True
+361,37,Arsenal,Burnley,1.0,0.0,1,5,2026-05-18T19:00:00Z,True,True
 363,37,Bournemouth,Man City,,,4,4,2026-05-19T18:30:00Z,False,False
 365,37,Chelsea,Spurs,,,3,3,2026-05-19T19:15:00Z,False,False
 371,38,Brighton,Man Utd,,,3,4,2026-05-24T15:00:00Z,False,False
