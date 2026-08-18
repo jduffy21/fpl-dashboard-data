@@ -49,46 +49,46 @@ id,event,team_h_name,team_a_name,team_h_score,team_a_score,team_h_difficulty,tea
 47,5,Nott'm Forest,Coventry City,,,2,3,2026-09-19T16:30:00Z,False,False
 49,5,Bournemouth,Liverpool,,,4,3,2026-09-20T13:00:00Z,False,False
 50,5,Fulham,Man Utd,,,4,3,2026-09-20T15:30:00Z,False,False
-51,6,Arsenal,Leeds,,,2,5,2026-10-10T14:00:00Z,False,False
+51,6,Arsenal,Leeds,,,2,5,2026-10-10T11:30:00Z,False,False
 52,6,Aston Villa,Brentford,,,3,4,2026-10-10T14:00:00Z,False,False
 53,6,Chelsea,Bournemouth,,,3,4,2026-10-10T14:00:00Z,False,False
-54,6,Coventry City,Newcastle,,,2,2,2026-10-10T14:00:00Z,False,False
-55,6,Crystal Palace,Nott'm Forest,,,3,3,2026-10-10T14:00:00Z,False,False
-56,6,Hull City,Everton,,,3,2,2026-10-10T14:00:00Z,False,False
 57,6,Ipswich Town,Fulham,,,2,2,2026-10-10T14:00:00Z,False,False
-58,6,Liverpool,Man City,,,4,4,2026-10-10T14:00:00Z,False,False
-59,6,Man Utd,Spurs,,,3,4,2026-10-10T14:00:00Z,False,False
 60,6,Sunderland,Brighton,,,2,3,2026-10-10T14:00:00Z,False,False
-61,7,Bournemouth,Sunderland,,,2,3,2026-10-17T14:00:00Z,False,False
+59,6,Man Utd,Spurs,,,3,4,2026-10-10T16:30:00Z,False,False
+55,6,Crystal Palace,Nott'm Forest,,,3,3,2026-10-11T13:00:00Z,False,False
+56,6,Hull City,Everton,,,3,2,2026-10-11T13:00:00Z,False,False
+58,6,Liverpool,Man City,,,4,4,2026-10-11T15:30:00Z,False,False
+54,6,Coventry City,Newcastle,,,2,2,2026-10-12T19:00:00Z,False,False
+64,7,Everton,Chelsea,,,4,3,2026-10-17T11:30:00Z,False,False
 62,7,Brentford,Liverpool,,,4,3,2026-10-17T14:00:00Z,False,False
-63,7,Brighton,Crystal Palace,,,3,3,2026-10-17T14:00:00Z,False,False
-64,7,Everton,Chelsea,,,4,3,2026-10-17T14:00:00Z,False,False
 65,7,Fulham,Hull City,,,2,3,2026-10-17T14:00:00Z,False,False
-66,7,Leeds,Man Utd,,,4,3,2026-10-17T14:00:00Z,False,False
 67,7,Man City,Ipswich Town,,,2,5,2026-10-17T14:00:00Z,False,False
-68,7,Newcastle,Aston Villa,,,3,3,2026-10-17T14:00:00Z,False,False
-69,7,Nott'm Forest,Arsenal,,,4,3,2026-10-17T14:00:00Z,False,False
-70,7,Spurs,Coventry City,,,2,3,2026-10-17T14:00:00Z,False,False
+68,7,Newcastle,Aston Villa,,,3,3,2026-10-17T16:30:00Z,False,False
+61,7,Bournemouth,Sunderland,,,2,3,2026-10-18T13:00:00Z,False,False
+63,7,Brighton,Crystal Palace,,,3,3,2026-10-18T13:00:00Z,False,False
+66,7,Leeds,Man Utd,,,4,3,2026-10-18T13:00:00Z,False,False
+69,7,Nott'm Forest,Arsenal,,,4,3,2026-10-18T15:30:00Z,False,False
+70,7,Spurs,Coventry City,,,2,3,2026-10-19T19:00:00Z,False,False
+77,8,Ipswich Town,Nott'm Forest,,,3,2,2026-10-23T19:00:00Z,False,False
+72,8,Aston Villa,Man City,,,4,4,2026-10-24T11:30:00Z,False,False
 71,8,Arsenal,Everton,,,3,5,2026-10-24T14:00:00Z,False,False
-72,8,Aston Villa,Man City,,,4,4,2026-10-24T14:00:00Z,False,False
-73,8,Chelsea,Spurs,,,3,4,2026-10-24T14:00:00Z,False,False
 74,8,Coventry City,Fulham,,,2,2,2026-10-24T14:00:00Z,False,False
-75,8,Crystal Palace,Newcastle,,,2,3,2026-10-24T14:00:00Z,False,False
-76,8,Hull City,Brentford,,,3,2,2026-10-24T14:00:00Z,False,False
-77,8,Ipswich Town,Nott'm Forest,,,3,2,2026-10-24T14:00:00Z,False,False
 78,8,Liverpool,Brighton,,,2,4,2026-10-24T14:00:00Z,False,False
-79,8,Man Utd,Bournemouth,,,3,4,2026-10-24T14:00:00Z,False,False
-80,8,Sunderland,Leeds,,,2,3,2026-10-24T14:00:00Z,False,False
-81,9,Aston Villa,Fulham,,,2,4,2026-10-31T15:00:00Z,False,False
+73,8,Chelsea,Spurs,,,3,4,2026-10-24T16:30:00Z,False,False
+75,8,Crystal Palace,Newcastle,,,2,3,2026-10-25T14:00:00Z,False,False
+76,8,Hull City,Brentford,,,3,2,2026-10-25T14:00:00Z,False,False
+79,8,Man Utd,Bournemouth,,,3,4,2026-10-25T14:00:00Z,False,False
+80,8,Sunderland,Leeds,,,2,3,2026-10-25T16:30:00Z,False,False
+84,9,Chelsea,Man Utd,,,4,4,2026-10-31T12:30:00Z,False,False
 82,9,Bournemouth,Leeds,,,2,3,2026-10-31T15:00:00Z,False,False
 83,9,Brentford,Nott'm Forest,,,3,3,2026-10-31T15:00:00Z,False,False
-84,9,Chelsea,Man Utd,,,4,4,2026-10-31T15:00:00Z,False,False
 85,9,Coventry City,Sunderland,,,2,2,2026-10-31T15:00:00Z,False,False
 86,9,Hull City,Ipswich Town,,,2,2,2026-10-31T15:00:00Z,False,False
-87,9,Liverpool,Arsenal,,,4,4,2026-10-31T15:00:00Z,False,False
 88,9,Man City,Brighton,,,2,5,2026-10-31T15:00:00Z,False,False
-89,9,Newcastle,Everton,,,3,3,2026-10-31T15:00:00Z,False,False
-90,9,Spurs,Crystal Palace,,,3,3,2026-10-31T15:00:00Z,False,False
+90,9,Spurs,Crystal Palace,,,3,3,2026-10-31T17:30:00Z,False,False
+81,9,Aston Villa,Fulham,,,2,4,2026-11-01T14:00:00Z,False,False
+87,9,Liverpool,Arsenal,,,4,4,2026-11-01T16:30:00Z,False,False
+89,9,Newcastle,Everton,,,3,3,2026-11-02T20:00:00Z,False,False
 91,10,Arsenal,Hull City,,,2,5,2026-11-07T15:00:00Z,False,False
 92,10,Brighton,Brentford,,,3,3,2026-11-07T15:00:00Z,False,False
 93,10,Crystal Palace,Liverpool,,,4,3,2026-11-07T15:00:00Z,False,False
