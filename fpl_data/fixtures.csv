@@ -1,14 +1,14 @@
 id,event,team_h_name,team_a_name,team_h_score,team_a_score,team_h_difficulty,team_a_difficulty,kickoff_time,finished,started
-1,1,Arsenal,Coventry City,,,2,5,2026-08-21T19:00:00Z,False,False
-4,1,Hull City,Man Utd,,,4,2,2026-08-22T11:30:00Z,False,False
-3,1,Everton,Crystal Palace,,,3,3,2026-08-22T14:00:00Z,False,False
-5,1,Ipswich Town,Sunderland,,,2,2,2026-08-22T14:00:00Z,False,False
-6,1,Nott'm Forest,Leeds,,,2,3,2026-08-22T14:00:00Z,False,False
-2,1,Brentford,Spurs,,,3,3,2026-08-22T16:30:00Z,False,False
-7,1,Brighton,Aston Villa,,,3,3,2026-08-23T13:00:00Z,False,False
-8,1,Man City,Bournemouth,,,3,5,2026-08-23T13:00:00Z,False,False
-9,1,Newcastle,Liverpool,,,4,3,2026-08-23T15:30:00Z,False,False
-10,1,Fulham,Chelsea,,,4,3,2026-08-24T19:00:00Z,False,False
+1,1,Arsenal,Coventry City,3.0,0.0,2,5,2026-08-21T19:00:00Z,True,True
+4,1,Hull City,Man Utd,2.0,0.0,4,2,2026-08-22T11:30:00Z,True,True
+3,1,Everton,Crystal Palace,2.0,0.0,3,3,2026-08-22T14:00:00Z,True,True
+5,1,Ipswich Town,Sunderland,2.0,1.0,2,2,2026-08-22T14:00:00Z,True,True
+6,1,Nott'm Forest,Leeds,0.0,1.0,2,3,2026-08-22T14:00:00Z,True,True
+2,1,Brentford,Spurs,3.0,0.0,3,3,2026-08-22T16:30:00Z,True,True
+7,1,Brighton,Aston Villa,4.0,0.0,3,3,2026-08-23T13:00:00Z,True,True
+8,1,Man City,Bournemouth,2.0,1.0,3,5,2026-08-23T13:00:00Z,True,True
+9,1,Newcastle,Liverpool,2.0,2.0,4,3,2026-08-23T15:30:00Z,True,True
+10,1,Fulham,Chelsea,2.0,3.0,4,3,2026-08-24T19:00:00Z,True,True
 11,2,Crystal Palace,Man City,,,4,3,2026-08-28T19:00:00Z,False,False
 14,2,Liverpool,Nott'm Forest,,,3,4,2026-08-29T11:30:00Z,False,False
 12,2,Bournemouth,Everton,,,3,3,2026-08-29T14:00:00Z,False,False
