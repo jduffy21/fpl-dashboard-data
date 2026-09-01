@@ -1,21 +1,21 @@
 id,name,short_name,strength,strength_overall_home,strength_overall_away,strength_attack_home,strength_attack_away,strength_defence_home,strength_defence_away,win,draw,loss,points,position
 1,Arsenal,ARS,,4,5,0,0,0,0,0,0,0,0,2
-2,Aston Villa,AVL,,3,4,0,0,0,0,0,0,0,0,20
-3,Bournemouth,BOU,,3,3,0,0,0,0,0,0,0,0,13
-4,Brentford,BRE,,3,3,0,0,0,0,0,0,0,0,3
-5,Brighton,BHA,,2,3,0,0,0,0,0,0,0,0,1
-6,Chelsea,CHE,,4,4,0,0,0,0,0,0,0,0,6
-7,Coventry City,COV,,2,2,0,0,0,0,0,0,0,0,18
-8,Crystal Palace,CRY,,3,3,0,0,0,0,0,0,0,0,16
-9,Everton,EVE,,3,3,0,0,0,0,0,0,0,0,4
-10,Fulham,FUL,,2,3,0,0,0,0,0,0,0,0,12
-11,Hull City,HUL,,2,2,0,0,0,0,0,0,0,0,5
-12,Ipswich Town,IPS,,2,2,0,0,0,0,0,0,0,0,7
-13,Leeds,LEE,,2,3,0,0,0,0,0,0,0,0,9
-14,Liverpool,LIV,,4,4,0,0,0,0,0,0,0,0,10
-15,Man City,MCI,,4,5,0,0,0,0,0,0,0,0,8
-16,Man Utd,MUN,,4,4,0,0,0,0,0,0,0,0,17
-17,Newcastle,NEW,,2,3,0,0,0,0,0,0,0,0,11
+2,Aston Villa,AVL,,3,4,0,0,0,0,0,0,0,0,19
+3,Bournemouth,BOU,,3,3,0,0,0,0,0,0,0,0,14
+4,Brentford,BRE,,3,3,0,0,0,0,0,0,0,0,5
+5,Brighton,BHA,,2,3,0,0,0,0,0,0,0,0,9
+6,Chelsea,CHE,,4,4,0,0,0,0,0,0,0,0,4
+7,Coventry City,COV,,2,2,0,0,0,0,0,0,0,0,17
+8,Crystal Palace,CRY,,3,3,0,0,0,0,0,0,0,0,18
+9,Everton,EVE,,3,3,0,0,0,0,0,0,0,0,7
+10,Fulham,FUL,,2,3,0,0,0,0,0,0,0,0,16
+11,Hull City,HUL,,2,2,0,0,0,0,0,0,0,0,3
+12,Ipswich Town,IPS,,2,2,0,0,0,0,0,0,0,0,12
+13,Leeds,LEE,,2,3,0,0,0,0,0,0,0,0,8
+14,Liverpool,LIV,,4,4,0,0,0,0,0,0,0,0,13
+15,Man City,MCI,,4,5,0,0,0,0,0,0,0,0,1
+16,Man Utd,MUN,,4,4,0,0,0,0,0,0,0,0,10
+17,Newcastle,NEW,,2,3,0,0,0,0,0,0,0,0,6
 18,Nott'm Forest,NFO,,3,3,0,0,0,0,0,0,0,0,15
-19,Spurs,TOT,,3,3,0,0,0,0,0,0,0,0,19
-20,Sunderland,SUN,,2,3,0,0,0,0,0,0,0,0,14
+19,Spurs,TOT,,3,3,0,0,0,0,0,0,0,0,20
+20,Sunderland,SUN,,2,3,0,0,0,0,0,0,0,0,11

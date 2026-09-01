@@ -1,7 +1,7 @@
 id,name,deadline_time,average_entry_score,highest_score,most_selected,most_transferred_in,top_element,transfers_made,finished,is_current,is_next
-1,Gameweek 1,2026-08-21T17:30:00Z,50,131.0,411.0,1.0,115.0,0,False,True,False
-2,Gameweek 2,2026-08-28T17:30:00Z,0,,,,,549535,False,False,True
-3,Gameweek 3,2026-09-04T17:30:00Z,0,,,,,0,False,False,False
+1,Gameweek 1,2026-08-21T17:30:00Z,50,131.0,411.0,1.0,115.0,0,True,False,False
+2,Gameweek 2,2026-08-28T17:30:00Z,81,161.0,165.0,115.0,426.0,11562127,True,True,False
+3,Gameweek 3,2026-09-04T17:30:00Z,0,,,,,0,False,False,True
 4,Gameweek 4,2026-09-12T12:30:00Z,0,,,,,0,False,False,False
 5,Gameweek 5,2026-09-18T17:30:00Z,0,,,,,0,False,False,False
 6,Gameweek 6,2026-10-10T10:00:00Z,0,,,,,0,False,False,False
